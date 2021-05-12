@@ -1,2 +1,2 @@
 # android-asm
-![Alt text](Capture.jpg?raw=true)
+![Alt text](https://github.com/chichuot96/android-asm/blob/master/Capture.JPG?raw=true)
