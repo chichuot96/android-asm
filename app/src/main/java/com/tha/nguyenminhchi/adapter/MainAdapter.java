@@ -18,7 +18,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.List;
 
-public class MainAdapter  extends RecyclerView.Adapter {
+public class MainAdapter extends RecyclerView.Adapter {
     private Activity activity;
     private List<Weather> listData;
 
